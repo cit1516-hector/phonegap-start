@@ -1,0 +1,60 @@
+body
+{
+	background-color: #bdc3c7;
+}
+
+h1
+{
+	font-size: 50px;
+}
+
+h2
+{
+	font-size: 20px;
+}
+
+h3
+{
+	font-size: 15px;
+}
+
+.txtalign
+{
+	text-align: center;
+}
+
+.marginauto
+{
+	margin: 0px auto 0px auto;
+}
+
+.margin10
+{
+	margin: 10px;
+}
+
+.border25
+{
+	border-radius: 25px;
+}
+
+.padding5
+{
+	padding: 5px;
+}
+
+.width50
+{
+    width: 50px;
+}
+
+.invisible 
+{
+    visibility: hidden;
+}
+
+.buttoninvi 
+{
+    background: transparent;
+    border: none !important;
+}
